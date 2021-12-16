@@ -1,4 +1,4 @@
-# covid_ct_seg
+# covid-ct-seg
 
 ## Contour-enhanced Attention CNN for CT-based COVID-19 Segmentation
 
