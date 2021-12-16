@@ -1,8 +1,8 @@
-# covid_ct_seg
-
-## Contour-enhanced Attention CNN for CT-based COVID-19 Segmentation
+# Contour-enhanced Attention CNN for CT-based COVID-19 Segmentation
 
 **Contributors:** Hariharan, M., Karthik, R., Menaka, R.
+
+<img src="architecture.png" />
 
 ### Highlights
 - Proposed Contour enhancement to refine attention focus areas in CNN learning to find lesions on CT scan.
